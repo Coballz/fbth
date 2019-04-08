@@ -1,0 +1,5 @@
+In this version, there were a few issues.
+
+First and foremost, I did not understand what "Volumes" meant and what the subsequent requirement for it was.
+Secondly, I could not for the life of me manage to get collisions working with movement the way I had intended it.
+When collisions did work, they sent me flying off into Neverland without me being able to control my own movement from that point onward, so I left it at that for the time being.
